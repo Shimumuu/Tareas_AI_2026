@@ -126,6 +126,3 @@ este repositorio utiliza la nomenclatura de la versión 1.x
 
 Uso de Claude para poder dejar listo el entorno para poder empezar a realizar la tarea ya que hubo complicaciones al intentar instalar el HMMlearn y que por sugerencia que se recibio antes de empezar, se realizo un entorno para mantener seguro el sistema operativo.
 Asi mismo se utilizo para poder tener el readme de instalación ya que no se como lograr una mejor explicación de lo que se realizo sobre el entorno y los problemas que se presentaron ante el HMMlearn con la version 3.14. Lo que termino obligando a usar una version anterior con ayuda externa.
-
-[Completar según corresponda. Detallar el propósito específico para el que
-fueron empleadas, conforme a lo indicado en el enunciado.]
